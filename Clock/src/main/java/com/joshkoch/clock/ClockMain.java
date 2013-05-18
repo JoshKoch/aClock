@@ -19,5 +19,8 @@ public class ClockMain extends Activity {
         getMenuInflater().inflate(R.menu.clock_main, menu);
         return true;
     }
-    
+
+    private void testGit() {
+        int thisIsATestToSeeIfGitSeesMyChanges = 1;
+    }
 }
