@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clock.iml" filepath="$PROJECT_DIR$/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aClock.iml" filepath="$PROJECT_DIR$/aClock.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/ActionBarSherlock/actionbarsherlock/actionbarsherlock.iml" filepath="$USER_HOME$/Documents/GitHub/ActionBarSherlock/actionbarsherlock/actionbarsherlock.iml" />
+    </modules>
+  </component>
+</project>
+
